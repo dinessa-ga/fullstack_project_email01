@@ -1,0 +1,24 @@
+.DS_Store
+
+
+# Python
+*.pyc
+*~
+__pycache__
+
+# Env
+venv
+
+# Database
+db.sqlite3
+
+# Windows
+Thumbs.db*
+ehthumbs*.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+
+# Visual Studio
+.vscode/
+.history/
+*.code-workspace
